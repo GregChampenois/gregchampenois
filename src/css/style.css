@@ -6,10 +6,10 @@ body{
 }
 
 #mainContainer {
-  border: 8px solid #0038FF;
+  border: 4px inset #0038FF;
   border-radius: 30px;
   color: white;
-
+  min-height: 100vh;
 }
 
 #myPicture{
